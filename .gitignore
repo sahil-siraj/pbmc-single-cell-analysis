@@ -1,0 +1,6 @@
+.Rhistory
+.RData
+.Ruserdata
+*.tar.gz
+data/
+*.rds
